@@ -4,7 +4,10 @@
 
 In this project, build a table using data stored in a JavaScript array. Also created a filter to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing. Customize webpage by using Bootstrap, and equip tables with several fully functional filters that will allow users to interact with the visualizations. 
 
+
 ![ufomaster](https://user-images.githubusercontent.com/58860105/139594559-7d23f3ac-e4dd-41c9-8317-1c90c82da6dc.PNG)
+
+The webpage includes five different filter search boxes on the left side of the page, which includes the Date, City, State, Country, and Shape. Filtering on the webpage can be either done by entering the filter formation into the filter search box. The results of the information entered into the filter search box will return the UFOs sightings for the exact information entered in the filter search.
 
 
 ## Deliverable 1: Filter UFO sightings on multiple criteria.
