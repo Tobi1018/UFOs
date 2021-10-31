@@ -29,4 +29,4 @@ The webpage includes five different filter search boxes on the left side of the 
   * Creating another filter search bar to find the lengths of the UFOs.
   * Adding another filter button below the filter search will serve as the enter button for all five filter searches.
 ### Resources 
-Webpage deployement;[https://tobi1018.github.io/UFOs/](file:///C:/Users/ooduntan/Desktop/Data%20Analyst%20Folder/UFOs/index.html)
+Webpage deployement: [https://tobi1018.github.io/UFOs/] (file:///C:/Users/ooduntan/Desktop/Data%20Analyst%20Folder/UFOs/index.html)
