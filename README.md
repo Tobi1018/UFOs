@@ -7,7 +7,7 @@ In this project, build a table using data stored in a JavaScript array. Also cre
 
 ![ufomaster](https://user-images.githubusercontent.com/58860105/139594559-7d23f3ac-e4dd-41c9-8317-1c90c82da6dc.PNG)
 
-The webpage includes five different filter search boxes on the left side of the page, which includes the Date, City, State, Country, and Shape. Filtering on the webpage can be either done by entering the filter formation into the filter search box. The results of the information entered into the filter search box will return the UFOs sightings for the exact information entered in the filter search.
+
 
 
 ## Deliverable 1: Filter UFO sightings on multiple criteria.
@@ -16,6 +16,8 @@ Using JavaScript and HTML, I modify the code in the index.html file to create mo
 ## UFO Sightings Result Page
 
 ![imageufo](https://user-images.githubusercontent.com/58860105/139594511-62f0074e-c925-4fb4-8aa9-635062e1aafb.PNG)
+
+The webpage includes five different filter search boxes on the left side of the page, which includes the Date, City, State, Country, and Shape. Filtering on the webpage can be either done by entering the filter formation into the filter search box. The results of the information entered into the filter search box will return the UFOs sightings for the exact information entered in the filter search.
 
 
 ## Summary 
