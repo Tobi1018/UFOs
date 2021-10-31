@@ -23,14 +23,9 @@ The webpage includes five different filter search boxes on the left side of the 
 ## Summary 
 
 ### Drawback of the Webpage
-  *
-  *
+  * Having five different filter search boxes makes it difficult for users to understand how to use them.
+  * A dropdown list should be included in each filter search box.
 ### Recommendation To Improve the Webpage 
   * Creating another filter search bar to find the lengths of the UFOs.
-  * Adding another filter button below the filter search.
-## Resources 
- * g
- * k
- * j
- * UFOs; Deployed webpage link: [](file:///C:/Users/ooduntan/Desktop/Data%20Analyst%20Folder/UFOs/index.html)
+  * Adding another filter button below the filter search will serve as the enter button for all five filter searches.
 
