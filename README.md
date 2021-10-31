@@ -8,5 +8,7 @@ Using JavaScript and HTML, I modify the code in the index.html file to create mo
 
 ## UFO Sightings Result Page
 
+![imageufo](https://user-images.githubusercontent.com/58860105/139594511-62f0074e-c925-4fb4-8aa9-635062e1aafb.PNG)
+
 
 ## Summary 
